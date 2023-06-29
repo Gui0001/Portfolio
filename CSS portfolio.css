@@ -494,16 +494,10 @@
   }
   
   .skills-content .right .js::before {
-    width: 40%;
-  }
-  
-  .skills-content .right .bootstraps::before {
-    width: 60%;
-  }
-  
-  .skills-content .right .django::before {
     width: 70%;
   }
+  
+ 
   
 
   
@@ -919,3 +913,11 @@
       line-height: 38px;
     }
   }
+
+  /* Styles for Documentations section */
+.documentations {
+  background-color: #f2f2f2;
+  padding: 20px;
+  text-align: center;
+}
+
